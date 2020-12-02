@@ -1,0 +1,456 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "Hewitt",
+      "last_name": "Pennetti",
+      "email": "hpennetti0@bbc.co.uk",
+      "gender": "Female",
+      "cell phone number": 3214672319
+    },
+    {
+      "id": 2,
+      "name": "Parrnell",
+      "last_name": "Sessuns",
+      "email": "psessuns1@about.com",
+      "gender": "Male",
+      "cell phone number": 3028391238
+    },
+    {
+      "id": 3,
+      "name": "Car",
+      "last_name": "Whardley",
+      "email": "cwhardley2@sciencedirect.com",
+      "gender": "Female",
+      "cell phone number": 3113278392
+    },
+    {
+      "id": 4,
+      "name": "Kaspar",
+      "last_name": "Gravener",
+      "email": "kgravener3@is.gd",
+      "gender": "Male",
+      "cell phone number": 32849273912
+    },
+    {
+      "id": 5,
+      "name": "Izak",
+      "last_name": "Hovy",
+      "email": "ihovy4@quantcast.com",
+      "gender": "Female",
+      "cell phone number": 30012232475
+    },
+    {
+      "id": 6,
+      "name": "Cary",
+      "last_name": "Dearle-Palser",
+      "email": "cdearlepalser5@msn.com",
+      "gender": "Male",
+      "cell phone number": 3123215673
+    },
+    {
+      "id": 7,
+      "name": "Derrick",
+      "last_name": "Rosell",
+      "email": "drosell6@exblog.jp",
+      "gender": "Male",
+      "cell phone number": 3147849021
+    },
+    {
+      "id": 8,
+      "name": "Paxon",
+      "last_name": "Rockcliff",
+      "email": "prockcliff7@drupal.org",
+      "gender": "Female",
+      "cell phone number": 3142164782
+    },
+    {
+      "id": 9,
+      "name": "Rudolf",
+      "last_name": "Raffan",
+      "email": "rraffan8@ed.gov",
+      "gender": "Female",
+      "cell phone number": 3131246720
+    },
+    {
+      "id": 10,
+      "name": "Leland",
+      "last_name": "Zanutti",
+      "email": "lzanutti9@census.gov",
+      "gender": "Female",
+      "cell phone number": 3103213271
+    },
+    {
+      "id": 11,
+      "name": "Cary",
+      "last_name": "Caslett",
+      "email": "ccasletta@surveymonkey.com",
+      "gender": "Female",
+      "cell phone number": 3213421382
+    },
+    {
+      "id": 12,
+      "name": "Elmo",
+      "last_name": "Chatwood",
+      "email": "echatwoodb@jimdo.com",
+      "gender": "Female",
+      "cell phone number": 3272567123
+    },
+    {
+      "id": 13,
+      "name": "Antin",
+      "last_name": "Finnan",
+      "email": "afinnanc@omniture.com",
+      "gender": "Female",
+      "cell phone number": 3125721890
+    },
+    {
+      "id": 14,
+      "name": "Nikolas",
+      "last_name": "Weddeburn",
+      "email": "nweddeburnd@people.com.cn",
+      "gender": "Female",
+      "cell phone number": 3157328123
+    },
+    {
+      "id": 15,
+      "name": "Killie",
+      "last_name": "Braine",
+      "email": "kbrainee@imgur.com",
+      "gender": "Male",
+      "cell phone number": 3217213902
+    }
+  ],
+  "conductores": [
+    {
+      "id": 16,
+      "first_name": "Tabbie",
+      "last_name": "Fury",
+      "email": "tfury0@freewebs.com",
+      "gender": "Female",
+      "Vehicle brand": "Ford",
+      "cell phone number": 3015821732
+    },
+    {
+      "id": 17,
+      "first_name": "Leigh",
+      "last_name": "Liver",
+      "email": "lliver1@theguardian.com",
+      "gender": "Female",
+      "Vehicle brand": "Honda",
+      "cell phone number": 3210342184
+    },
+    {
+      "id": 18,
+      "first_name": "Nicolette",
+      "last_name": "Kreuzer",
+      "email": "nkreuzer2@istockphoto.com",
+      "gender": "Female",
+      "Vehicle brand": "Honda",
+      "cell phone number": 311321321
+    },
+    {
+      "id": 19,
+      "first_name": "Karney",
+      "last_name": "Janda",
+      "email": "kjanda3@reference.com",
+      "gender": "Male",
+      "Vehicle brand": "GMC",
+      "cell phone number": 301231781
+    },
+    {
+      "id": 20,
+      "first_name": "Debby",
+      "last_name": "Brigdale",
+      "email": "dbrigdale4@gravatar.com",
+      "gender": "Female",
+      "Vehicle brand": "Audi",
+      "cell phone number": 3127232012
+    },
+    {
+      "id": 21,
+      "first_name": "Timotheus",
+      "last_name": "Riddock",
+      "email": "triddock5@weibo.com",
+      "gender": "Male",
+      "Vehicle brand": "Eagle",
+      "cell phone number": 312589215
+    },
+    {
+      "id": 22,
+      "first_name": "Rosamond",
+      "last_name": "Pressdee",
+      "email": "rpressdee6@skype.com",
+      "gender": "Female",
+      "Vehicle brand": "Chevrolet",
+      "cell phone number": 3013213423
+    },
+    {
+      "id": 23,
+      "first_name": "Dev",
+      "last_name": "Frigout",
+      "email": "dfrigout7@newyorker.com",
+      "gender": "Male",
+      "Vehicle brand": "Toyota",
+      "cell phone number": 3129921399
+    },
+    {
+      "id": 24,
+      "first_name": "Lizzy",
+      "last_name": "Lillecrap",
+      "email": "llillecrap8@deliciousdays.com",
+      "gender": "Female",
+      "Vehicle brand": "Buick",
+      "cell phone number": 312329912
+    },
+    {
+      "id": 25,
+      "first_name": "Angie",
+      "last_name": "Celloni",
+      "email": "acelloni9@diigo.com",
+      "gender": "Male",
+      "Vehicle brand": "Kia",
+      "cell phone number": 3138322112
+    }
+  ],
+  "Vehiculos": [
+    {
+      "id": 16,
+      "gender": "Female",
+      "Vehicle brand": "Ford",
+      "cell phone number": 3015821732,
+      "license plate": "Sonsing"
+    },
+    {
+      "id": 17,
+      "gender": "Female",
+      "Vehicle brand": "Honda",
+      "cell phone number": 3210342184,
+      "license plate": "Hatity"
+    },
+    {
+      "id": 18,
+      "gender": "Female",
+      "Vehicle brand": "Honda",
+      "cell phone number": 3210342184,
+      "license plate": "Treeflex"
+    },
+    {
+      "id": 19,
+      "gender": "Male",
+      "Vehicle brand": "GMC",
+      "cell phone number": 301231781,
+      "license plate": "Bytecard"
+    },
+    {
+      "id": 20,
+      "gender": "Female",
+      "Vehicle brand": "Audi",
+      "cell phone number": 3127232012,
+      "license plate": "Fixflex"
+    },
+    {
+      "id": 21,
+      "gender": "Female",
+      "Vehicle brand": "Chevrolet",
+      "cell phone number": 3013213423,
+      "license plate": "Otcom"
+    },
+    {
+      "id": 22,
+      "gender": "Male",
+      "Vehicle brand": "Toyota",
+      "cell phone number": 3129921399,
+      "license plate": "Voyatouch"
+    },
+    {
+      "id": 23,
+      "gender": "Male",
+      "Vehicle brand": "Toyota",
+      "cell phone number": 3129921399,
+      "license plate": "Veribet"
+    },
+    {
+      "gender": "Female",
+      "Vehicle brand": "Buick",
+      "cell phone number": 312329912,
+      "license plate": "Zathin"
+    },
+    {
+      "id": 25,
+      "gender": "Male",
+      "Vehicle brand": "Kia",
+      "cell phone number": 3138322112,
+      "license plate": "Span"
+    }
+  ],
+  "Metodos_pago": [
+    {
+      "id_usuario": 1,
+      "credit card": "$0",
+      "cash": "$5.000",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 2,
+      "credit card": "$7.000",
+      "cash": "$0",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 3,
+      "credit card": "$0",
+      "cash": "$0",
+      "Applicative": "$3.500"
+    },
+    {
+      "id_usuario": 4,
+      "credit card": "$0",
+      "cash": "$5.500",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 5,
+      "credit card": "$3.000",
+      "cash": "$0",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 6,
+      "credit card": "$0",
+      "cash": "$8.000",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 7,
+      "credit card": "$0",
+      "cash": "$0",
+      "Applicative": "$8.700"
+    },
+    {
+      "id_usuario": 8,
+      "credit card": "$0",
+      "cash": "$9.000",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 9,
+      "credit card": "$0",
+      "cash": "$0",
+      "Applicative": "$3.000"
+    },
+    {
+      "id_usuario": 10,
+      "credit card": "$3.500",
+      "cash": "$0",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 11,
+      "credit card": "$5.000",
+      "cash": "$0",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 12,
+      "credit card": "$0",
+      "cash": "$8.000",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 13,
+      "credit card": "$0",
+      "cash": "$0",
+      "Applicative": "$2.500"
+    },
+    {
+      "id_usuario": 14,
+      "credit card": "$0",
+      "cash": "$5.000",
+      "Applicative": "$0"
+    },
+    {
+      "id_usuario": 15,
+      "credit card": "$0",
+      "cash": "$0",
+      "Applicative": "$2.000"
+    }
+  ],
+  "Viajes": [
+    {
+      "id_usuario": 1,
+      "Cost of the trip": "$5.000",
+      "travel time": "8/11/2020,4 horas"
+    },
+    {
+      "id_usuario": 2,
+      "Cost of the trip": "$7.000",
+      "travel time": "7/10/2020, 5 horas y 30 minutos"
+    },
+    {
+      "id_usuario": 3,
+      "Cost of the trip": "$3.500",
+      "travel time": "10/11/2020, 2 Horas"
+    },
+    {
+      "id_usuario": 4,
+      "Cost of the trip": "$5.500",
+      "travel time": "1/9/2020, 4 Horas y 30 Minutos"
+    },
+    {
+      "id_usuario": 5,
+      "Cost of the trip": "$3.000",
+      "travel time": "6/7/2020, 1 Hora"
+    },
+    {
+      "id_usuario": 6,
+      "Cost of the trip": "$8.000",
+      "travel time": "4/12/2020, 7 Horas"
+    },
+    {
+      "id_usuario": 7,
+      "Cost of the trip": "$8.700",
+      "travel time": "6/11/2020, 7 Horas 50 Minutos"
+    },
+    {
+      "id_usuario": 8,
+      "Cost of the trip": "$9.000",
+      "travel time": "12/12/2019, 8 Horas y 5 Minutos"
+    },
+    {
+      "id_usuario": 9,
+      "Cost of the trip": "$3.000",
+      "travel time": "26/11/2020, 1 Hora"
+    },
+    {
+      "id_usuario": 10,
+      "Cost of the trip": "$3.500",
+      "travel time": "30/11/2020, 2 Horas"
+    },
+    {
+      "id_usuario": 11,
+      "Cost of the trip": "$5.000",
+      "travel time": "28/11/2020, 4 Horas"
+    },
+    {
+      "id_usuario": 12,
+      "Cost of the trip": "$8.000",
+      "travel time": "22/12/2020, 7 Horas"
+    },
+    {
+      "id_usuario": 13,
+      "Cost of the trip": "$2.500",
+      "travel time": "12/12/2020, 30 Minutos"
+    },
+    {
+      "id_usuario": 14,
+      "Cost of the trip": "$5.000",
+      "travel time": "8/12/2020, 4 Horas"
+    },
+    {
+      "id_usuario": 15,
+      "Cost of the trip": "$2.000",
+      "travel time": "3/13/2020, 10 Minutos"
+    }
+  ]
+}
